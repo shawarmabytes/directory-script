@@ -3,4 +3,5 @@ A simple Python script that scans the existing directories and their files, and 
 
 ## Python scripts
 ``zzzzz_script.py`` scans the directories and files inside, moves them outside their directories, and deletes the empty directories after
+
 ``zzzzz_tester.py`` scratch file that prints a list of directories
